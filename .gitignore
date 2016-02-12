@@ -1,0 +1,11 @@
+.DS_Store
+.git
+
+JavaScript (Babel).sublime-settings
+JavaScript.sublime-settings
+
+Package Control.last-run
+Package Control.merged-ca-bundle
+Package Control.system-ca-bundle
+Package Control.user-ca-bundle
+Package Control.cache/

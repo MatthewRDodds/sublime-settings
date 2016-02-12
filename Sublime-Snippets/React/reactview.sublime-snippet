@@ -1,0 +1,30 @@
+<snippet>
+  <content><![CDATA[
+import React, {
+  Component,
+  Text,
+  TextInput,
+  TouchableHighlight,
+  View
+} from 'react-native';
+
+import { connect } from 'react-redux';
+
+class ${1:ComponentName} extends Component {
+  render() {
+    return (
+      <View>
+        <Text>
+          Hi
+        </Text>
+      </View>
+    );
+  }
+}
+
+export default connect()(${1:ComponentName});
+
+]]></content>
+  <tabTrigger>reactview</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
