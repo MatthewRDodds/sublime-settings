@@ -6,6 +6,8 @@
 	"installed_packages":
 	[
 		"Babel",
+		"Better CoffeeScript",
+		"CoffeeScriptHaml",
 		"Git",
 		"Package Control",
 		"React ES6 Snippets",
