@@ -6,10 +6,13 @@
 	"installed_packages":
 	[
 		"Babel",
+		"Babel Snippets",
 		"Better CoffeeScript",
 		"CoffeeScriptHaml",
 		"Git",
+		"HTMLBeautify",
 		"Package Control",
+		"Pretty JSON",
 		"React ES6 Snippets",
 		"Sass",
 		"SCSS",
